@@ -51,6 +51,8 @@ body {
 
 .hour-hand {
   background: red;
+  width: 25%;
+  right: 150px;
 }
 
 .second-hand {
